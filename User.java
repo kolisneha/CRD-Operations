@@ -1,3 +1,5 @@
+package net.javaguides.usermanagement.model;
+
 public class User {
 	protected int id;
 	protected String name;
